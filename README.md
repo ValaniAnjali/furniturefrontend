@@ -7,7 +7,7 @@ Welcome to **AVFurnitureShop**, a sleek and modern e-commerce platform for buyin
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
 
 > ✅ Frontend is hosted on [[Netlify](https://avfurnitureshop.netlify.app/)
-> ✅ Backend is hosted on [Render](https://your-render-backend.onrender.com](https://furniturewebbackend-2.onrender.com/)
+> ✅ Backend is hosted on [Render](https://furniturewebbackend-2.onrender.com/)
 
 ---
 
