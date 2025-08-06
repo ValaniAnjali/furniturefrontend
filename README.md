@@ -1,62 +1,38 @@
-# 🪑 AVFurniture Shop
+Explore AVFurnitureShop here : https://avfurnitureshop.netlify.app/
 
-AVFurniture Shop is a full-stack **MERN-based** e-commerce platform designed to showcase and manage a collection of furniture items. The application includes complete **CRUD functionality**, allowing users to create, read, update, and delete product entries efficiently.
+# 🪑 AVFurnitureShop
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Netlify-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Render-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=flat-square" />
-</div>
+Welcome to **AVFurnitureShop**, a sleek and modern e-commerce platform for buying and exploring furniture online.
 
----
+This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
 
-## 🚀 Live Demo
-
-- **Frontend** (Netlify): [https://avfurnitureshop.netlify.app](https://avfurnitureshop.netlify.app)
-- **Backend** (Render): [https://avfurniture-backend.onrender.com](https://avfurniture-backend.onrender.com)
+> ✅ Frontend is hosted on [[Netlify](https://avfurnitureshop.netlify.app/)
+> ✅ Backend is hosted on [Render](https://your-render-backend.onrender.com](https://furniturewebbackend-2.onrender.com/)
 
 ---
 
-## 📸 Screenshots
+## ✨ Features
 
-| Homepage | Add Product | Edit Product |
-|---------|-------------|--------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
+### ✅ User Side:
+- Browse and view furniture collection
+- Contact form to send messages or inquiries
+- Mobile-responsive layout with beautiful UI
 
----
-
-## ⚙️ Features
-
-- 🧾 View all available furniture products
-- ➕ Add a new product with image, name, price, and description
-- ✏️ Edit an existing product
-- ❌ Delete a product
-- 🔁 Fully connected with a live backend API
+### ✅ Admin Side:
+- Add, update,View, and delete furniture items (CRUD)
+- View messages from users sent via contact form
+- Admin authentication and role-based access 
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🧩 Technologies Used
 
-### Frontend:
-- React.js
-- Axios
-- Bootstrap 5
-- Hosted on **Netlify**
+| Frontend (React) | Backend (Node.js + Express) | Database (MongoDB Atlas) |
+|------------------|-----------------------------|---------------------------|
+| ReactJS          | Node.js                     | MongoDB Atlas             |
+| React Router     | Express                     | Mongoose                  |
+| Bootstrap / CSS  | CORS, dotenv                |                           |
 
-### Backend:
-- Node.js
-- Express.js
-- MongoDB (via MongoDB Atlas)
-- CORS & body-parser
-- Hosted on **Render**
+--
 
----
-
-## 🗂️ Folder Structure
-
-
-
-Live Link : https://avfurnitureshop.netlify.app/
-
-backend deployment : https://furniturewebbackend-2.onrender.com/
 
